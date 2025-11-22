@@ -37,5 +37,5 @@ The database contains 6 relational tables:
 - Top Traffic Campaign: "nonbrand" = 23K
 - Top Traffic Platform: "gsearch" = 21K
 - Conversion Rate: 6.83%
-- Device Performance: Desktop (86.05% - 28K) -- Mobile (13.95% - 5K)
+- Device Performance: Desktop (86.05% - 28K), Mobile (13.95% - 5K)
 - Repeated Visitors: about 6K
